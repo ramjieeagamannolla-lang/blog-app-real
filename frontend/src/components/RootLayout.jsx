@@ -4,8 +4,6 @@ import { Outlet } from "react-router";
 import {useEffect} from 'react'
 import { useAuth } from "../store/authStore";
 
-
-
 function RootLayout() {
 
   //import check checkAuth
